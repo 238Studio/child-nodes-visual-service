@@ -1,4 +1,4 @@
-package visualService
+package _struct
 
 type VisualApp struct {
 }
