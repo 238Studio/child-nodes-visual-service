@@ -1,3 +1,3 @@
 module github.com/238Studio/child-nodes-visual-service
 
-go 1.21.3
+go 1.21.1
